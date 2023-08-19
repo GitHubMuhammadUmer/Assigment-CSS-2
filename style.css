@@ -447,14 +447,14 @@ display: inline;
 
 }
 .text3{
-font-family: DOMINIKTH;
+font-family: futurak;
 
 }
 
 @font-face{
 
-  font-family: DOMINIKTH;
-  src: url(font/Caprasimo-Regular.ttf);
+  font-family: futurak;
+  src: url(font/futurak.ttf);
   font-weight: 1900px;
 }
 .red{

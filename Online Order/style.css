@@ -1,0 +1,155 @@
+.main nav ul {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+}
+
+.main nav ul a {
+    text-decoration: none;
+}
+
+.main nav {
+
+    background-color: rgb(0, 0, 0);
+}
+
+.first {
+    background-color: black;
+
+}
+
+.main {
+    height: 90px;
+}
+
+.second {
+
+    position: relative;
+    background-color: rgb(8, 8, 8);
+    padding: 70px;
+
+}
+
+
+.size3 {
+    padding-top: 10px;
+
+    padding-right: 1px;
+    margin: 30px;
+    display: inline-block
+}
+.size3{
+   
+        text-align: left;
+        color: white;
+          }
+    
+  
+  .size{
+    text-align: center;
+    color: white;
+      }
+.left2 {
+    position: absolute;
+
+    left: 32px;
+    top: 200px;
+}
+body{
+    background-color: black;
+}
+
+.box{
+    border: solid red;
+    border-radius: 26px;
+    font-size: large;
+color: rgb(255, 255, 255);
+background-color: red;
+
+font-style: italic;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+a{
+    color: azure;
+}
+
+.Franchise{
+    border: solid rgb(255, 255, 255);
+    border-radius: 26px;
+    font-size: large;
+color: rgb(255, 255, 255);
+background-color: rgb(2, 2, 2);
+
+font-style: italic;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-top: 10px; 
+
+}
+.Online{
+    border: solid red;
+    border-radius: 26px;
+    font-size: large;
+color: rgb(255, 255, 255);
+background-color: red;
+
+font-style: italic;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 10px;
+padding-top: 10px;   
+}
+.online1{
+
+    border: solid red;
+    border-radius: 26px;
+    font-size: large;
+color: rgb(255, 255, 255);
+background-color: red;
+
+font-style: italic;
+width: 190px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: 10px; 
+}
+
+
+input{
+    
+    padding-top: 30px;
+    padding-left: 390px;
+}
+
+.second{
+
+    position: relative;
+    background-color: rgb(19, 18, 18);
+    padding: 10px;
+    font-size: x-large;
+}
+
+
+table{
+
+    border-spacing: 70px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.seven{
+    position: relative;
+    background-color: rgb(8, 8, 8);
+    padding: 0px;text-align: left;
+
+  
+  }
